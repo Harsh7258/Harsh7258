@@ -7,7 +7,7 @@ Hi, I’m @Harsh7258<br> 👀 I’m interested in building innovative software s
 ## 🌐 Socials: Connect with me:
 <p align="left">
 <a href="https://twitter.com/harshna92099478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshna92099478" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/k-harsh-naidu-20012928a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/k-harsh-naidu-20012928a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/k-harsh-naidu-20012928a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/k-harsh-naidu-20012928a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshnaidu2u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshnaidu2u" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/harsh7258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harsh7258" height="30" width="40" /></a>
 </p>
